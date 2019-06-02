@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 5 Triple Star
 
-You can use the [editor on GitHub](https://github.com/fivetriplestar/fivetriplestar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi here! This is the official home page of the `5-triple-star` project. Here are some quick links to the current repository.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, this project is still under construction. After we have completed a decent amount of content, there will be a release (in `pdf` format). Currently available material can be found [here in the repo](https://github.com/mklprudence/5-triple-star).
 
-### Markdown
+### Collaboration
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Currently active collaborators:
 
-```markdown
-Syntax highlighted code block
+<table>
+    <tr>
+        <th>Username</th>
+        <th>Name</th>
+    </tr>
+    <tr>
+        <td>mklprudence</td>
+        <td>MOK Kwan Lam Prudence</td>
+    </tr>
+    <tr>
+        <td>fivetriplestar</td>
+        <td>BAI Zhiyuan</td>
+    </tr>
+</table>
 
-# Header 1
-## Header 2
-### Header 3
+For potential collaborators, please contact an active collaborator personally or send an email to `fivetriplestar@gmail.com`.
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fivetriplestar/fivetriplestar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Emails to `fivetriplestar@gmail.com` will normally be checked once per week.
