@@ -7,9 +7,16 @@ Links to released material can be found in the Released Material part.
 
 Under-construction material (```tex``` and related files) can be found [here in the repo](https://github.com/mklprudence/5-triple-star).
 
-## Released Material
+### Released Material
 
-Here are links to the released material:
+Here are links to the released material
+
+#### Latest builds
+
+M2 Notes:
+- [Differentiation (beta), compiled on 21 July 2019](https://github.com/fivetriplestar/fivetriplestar.github.io/blob/master/resources/Mathematics%20EP%20M2/Notes/M2_Differentiation_2019Jul21_beta.pdf)
+
+#### Previous builds
 
 M2 Notes:
 - [Differentiation (beta), compiled on 17 July 2019](https://github.com/fivetriplestar/fivetriplestar.github.io/blob/master/resources/Mathematics%20EP%20M2/Notes/M2_Differentiation_2019Jul17_beta.pdf)
